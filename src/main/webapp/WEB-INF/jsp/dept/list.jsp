@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset=UTF-8">
+<meta charset="UTF-8">
 <title>list.jsp</title>
 <c:if test="${true}">
 <link rel="stylesheet" href="/webjars/bootstrap/3.3.7/css/bootstrap.css">
